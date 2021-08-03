@@ -1,0 +1,11 @@
+{
+    "id": "zwy-protrait",
+    "name": "zwy头像小程序",
+    "version": "1.0.0",
+    "description": "基于zwyList的头像小程序示例 https://ext.dcloud.net.cn/plugin?id=443",
+    "keywords": [
+        "unicloud",
+        "小程序",
+        "头像"
+    ]
+}

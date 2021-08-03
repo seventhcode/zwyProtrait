@@ -1,2 +1,3 @@
-# zwyProtrait
-基于uni-app开发的头像小程序
+https://ext.dcloud.net.cn/plugin?id=443
+
+本项目为该插件项目实例
